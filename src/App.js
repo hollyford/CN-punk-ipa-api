@@ -46,7 +46,7 @@ const App = () => {
                 </nav>
                 <Switch>
                     <Route path="/">
-                        <Home beerName={beer.name} tagline={beer.tagline} firstBrewed={beer.first_brewed} description={beer.description} imgURL={beer.image_url} loading={loading} handler={handler}/>
+                        <Home beerName={beer.name} tagline={beer.tagline} firstBrewed={beer.first_brewed} description={beer.description} imgURL={beer.image_url} loading={loading} handler={handler} foodPairing={beer.food_pairing}/>
                     </Route>
                 </Switch>
             </div>

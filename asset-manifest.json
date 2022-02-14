@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CN-punk-ipa-api/static/css/main.afd7172b.chunk.css",
+    "main.js": "/CN-punk-ipa-api/static/js/main.e0da4079.chunk.js",
+    "main.js.map": "/CN-punk-ipa-api/static/js/main.e0da4079.chunk.js.map",
+    "runtime-main.js": "/CN-punk-ipa-api/static/js/runtime-main.f236fd4f.js",
+    "runtime-main.js.map": "/CN-punk-ipa-api/static/js/runtime-main.f236fd4f.js.map",
+    "static/js/2.872b2ff2.chunk.js": "/CN-punk-ipa-api/static/js/2.872b2ff2.chunk.js",
+    "static/js/2.872b2ff2.chunk.js.map": "/CN-punk-ipa-api/static/js/2.872b2ff2.chunk.js.map",
+    "index.html": "/CN-punk-ipa-api/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/CN-punk-ipa-api/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.872b2ff2.chunk.js.LICENSE.txt": "/CN-punk-ipa-api/static/js/2.872b2ff2.chunk.js.LICENSE.txt",
+    "static/media/pint.4e98e2e8.jpg": "/CN-punk-ipa-api/static/media/pint.4e98e2e8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f236fd4f.js",
+    "static/js/2.872b2ff2.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.e0da4079.chunk.js"
+  ]
+}
